@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OrderManagementSystem</string>
+    <string name="order_management">Order Management System</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <!--<string name="password">password</string>-->
+    <string name="order_no">Order no</string>
+    <string name="order_due_date">Due date</string>
+    <string name="customer_name">Customer name</string>
+    <string name="customer_address">Address</string>
+    <string name="customer_phone">Phone</string>
+    <string name="Order_total">Total</string>
+    <string name="order_details">Order Details</string>
+    <string name="confirm_delete">Are you sure you want to delete the order?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_maps">Map</string>
+    <!--<string name="Order_total">Total</string>-->
+</resources>
